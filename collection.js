@@ -1,4 +1,4 @@
-
+export {myCollection};
 
 let myCollection = [
     {
@@ -18,4 +18,3 @@ let myCollection = [
     }
   ];
 
-  export default myCollection
